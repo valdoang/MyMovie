@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="movie_name">Nama Movie</string>
+    <string name="description">Description</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="about_name">Valdo Febrian</string>
+    <string name="about_email">valdo.20010@mhs.unesa.ac.id</string>
+    <string name="about">About</string>
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string-array name="data_name">
+        <item>The Glory</item>
+        <item>Alchemy of Souls</item>
+        <item>All of Us Are Dead</item>
+        <item>True Beauty</item>
+        <item>The K2</item>
+        <item>Crash Landing on You</item>
+        <item>The Interest of Love</item>
+        <item>Hometown Cha-Cha-Cha</item>
+        <item>Twenty Five Twenty One</item>
+        <item>Guardian: The Lonely and Great God</item>
+        <item>Squid Game</item>
+        <item>Our Beloved Summer</item>
+    </string-array>
+
+    <string-array name="data_director">
+        <item>Director: Ahn Gil-Ho</item>
+        <item>Director: Park Joon-Hwa</item>
+        <item>Director: Lee Jae-Kyu, Kim Nam-Soo</item>
+        <item>Director: Kim Sang-Hyub</item>
+        <item>Director: Kwak Jung-Hwan</item>
+        <item>Director: Lee Jung-Hyo</item>
+        <item>Director: Jo Young-Min</item>
+        <item>Director: Yoo Je-Won</item>
+        <item>Director: Jung Ji-Hyun</item>
+        <item>Director: Lee Eung-Bok</item>
+        <item>Director: Hwang Dong-Hyuk</item>
+        <item>Director: Kim Yoon-Jin</item>
+    </string-array>
+
+    <string-array name="data_writer">
+        <item>Writer: Kim Eun-Sook</item>
+        <item>Writer: Hong Jung-Eun, Hong Mi-Ran</item>
+        <item>Writer: Joo Dong-Geun (webcomic), Chun Sung-Il</item>
+        <item>Writer: Yaongyi (webcomic), Lee Si-Eun</item>
+        <item>Writer: Jang Hyeok-Rin</item>
+        <item>Writer: Park Ji-Eun</item>
+        <item>Writer: Lee Hyeok-Jin (novel), Lee Seo-Hyun, Lee Hyun-Jung</item>
+        <item>Writer: Shin Ha-Eun</item>
+        <item>Writer: Kwon Do-Eun</item>
+        <item>Writer: Kim Eun-Sook</item>
+        <item>Writer: Hwang Dong-Hyuk</item>
+        <item>Writer: Lee Na-Eun</item>
+    </string-array>
+
+    <string-array name="data_network">
+        <item>Network: Netflix</item>
+        <item>Network: tvN</item>
+        <item>Network: Netflix</item>
+        <item>Network: tvN</item>
+        <item>Network: tvN</item>
+        <item>Network: tvN</item>
+        <item>Network: JTBC</item>
+        <item>Network: tvN</item>
+        <item>Network: tvN</item>
+        <item>Network: tvN</item>
+        <item>Network: Netflix</item>
+        <item>Network: SBS</item>
+    </string-array>
+
+    <string-array name="data_episodes">
+        <item>Episodes: 8</item>
+        <item>Episodes: 20 (Part 1) / 10 (Part 2)</item>
+        <item>Episodes: 12</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 16</item>
+        <item>Episodes: 9</item>
+        <item>Episodes: 16</item>
+    </string-array>
+
+    <string-array name="data_released_date">
+        <item>Release Date: December 30, 2022</item>
+        <item>Release Date: June 18 - August 28, 2022 (Part 1) / December 10, 2022 — (Part 2)</item>
+        <item>Release Date: January 28, 2022</item>
+        <item>Release Date: December 9, 2020 - February 4, 2021</item>
+        <item>Release Date: September 23 - November 12, 2016</item>
+        <item>Release Date: December 14, 2019 - February 16, 2020</item>
+        <item>Release Date: December 21, 2022 - February 9, 2023</item>
+        <item>Release Date: August 28 - October 17, 2021</item>
+        <item>Release Date: February 12 - April 3, 2022</item>
+        <item>Release Date: December 2, 2016 - January 21, 2017</item>
+        <item>Release Date: September 17, 2021</item>
+        <item>Release Date: December 6, 2021 - January 25, 2022</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Synopsis: A high school student dreamed of one day working as an architect. She became a victim of high school violence perpetrated by her fellow students. She dropped out of high school because of the bullying. She then planned revenge on her tormentors and also the bystanders who did nothing.</item>
+        <item>Synopsis: a powerful witch in the body of a blind woman meets a high-class family man, who wants the witchs help to change her fate.</item>
+        <item>Synopsis: A virus outbreak occurs at Hyosan High School. The infected quickly turn into human eating zombies. Students at the high school must now fight for their lives, while they look for a way out.</item>
+        <item>Synopsis: Im Ju-Kyung is a high school student. Since she was little, she has had a complex about her appearance. To hide her bare face, Im Ju-Kyung always wears make-up. Her excellent make-up skills makes her pretty and she hides her bare face in front others. She gets involved with 2 men; Lee Soo-Ho and Han Seo-Joon.</item>
+        <item>Synopsis: Kim Je-Ha (Ji Chang-Wook) is former solider for hire. He is also called K2. He is hired as a bodyguard by Choi Yoo-Jin (Song Yoon-A). Choi Yoo-Jin is the wife of a presidential candidate (Cho Seong-Ha) and the daughter from a chaebol family. Meanwhile, Ko An-Na (Lim Yoon-A) is the secret daughter of the presidential hopeful. She is also a recluse.</item>
+        <item>Synopsis: Yoon Se-Ri (Son Ye-Jin) is an heiress to a conglomerate in South Korea. One day, while paragliding, an accident caused by strong winds leads Yoon Se-Ri to make an emergency landing in North Korea. There, she meets Ri Jeong-Hyeok (Hyun-Bin), who is a North Korean army officer. He tries to protect her and hide her. Soon, Ri Jeong-Hyeok falls in love with Yoon Se-Ri.</item>
+        <item>Synopsis: A realistic romance story of four people who all met at the Youngpo branch of KCU Bank.</item>
+        <item>Synopsis: A love story set in the seaside village of Gongjin. Yoon Hye-Jin (Shin Min-A) works as a dentist. She is mostly a realist, but due to her rightfulness, which is only a tiny part of her mind, her life changes. She ends up moving to the seaside village of Gongjin. There, Yoon Hye-Jin meets Hong Du-Sik (Kim Sun-Ho). She becomes curious about him.</item>
+        <item>Synopsis: "Twenty-Five, Twenty-One" tells a love story between Na Hee-Do (Kim Tae-Ri) and Back Yi-Jin (Nam Joo-Hyuk). </item>
+        <item>Synopsis: In ancient times, Kim Shin (Gong Yoo) is an unbeatable general in wars, but the young King (Kim Min-Jae) is jealous of Kim Shin and kills him. Kim Shin becomes Dokkaebi (Goblin), possessing an immortal life. At first he thinks that he is blessed, but he realizes that he is cursed.</item>
+        <item>Synopsis: Seong Gi-Hun (Lee Jung-Jae) gets fired from his job. His life is miserable. Seong Gi-Hun hears about a secret survival game, with a 45.6 billion won prize for the winner. He decides to take part in the game.</item>
+        <item>Synopsis: Choi Ung (Choi Woo-Sik) and Kook Yeon-Su (Kim Da-Mi) broke up 5 years ago. A documentary they filmed during their high school days becomes popular. They don’t want to, but they have to stand in front of the camera.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://asianwiki.com/images/e/e5/The_Glory-p2.jpg</item>
+        <item>https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg</item>
+        <item>https://asianwiki.com/images/3/33/All_of_Us_Are_Dead-cp1.jpeg</item>
+        <item>https://asianwiki.com/images/e/ee/True_Beauty-P1.jpg</item>
+        <item>https://asianwiki.com/images/f/ff/The_K2-p1.jpg</item>
+        <item>https://asianwiki.com/images/f/f8/Crash_Landing_on_You-P1.jpg</item>
+        <item>https://asianwiki.com/images/b/bf/The_Interest_of_Love-p1.jpg</item>
+        <item>https://asianwiki.com/images/1/1c/Hometown_Cha-Cha-Cha-p2.jpg</item>
+        <item>https://asianwiki.com/images/1/1c/Twenty-Five_Twenty-One-p2.jpg</item>
+        <item>https://asianwiki.com/images/b/b2/Goblin-p04.jpg</item>
+        <item>https://asianwiki.com/images/0/0e/Squid_Game-p2.jpg</item>
+        <item>https://asianwiki.com/images/7/79/Our_Beloved_Summer-p3.jpg</item>
+    </string-array>
+</resources>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient"
+        tools:context=".DetailActivity">
+
+        <ImageView
+            android:id="@+id/iv_detail_photo"
+            android:layout_width="321dp"
+            android:layout_height="282dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.421"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.067"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_detail_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="TextView"
+            android:textColor="@color/purple_700"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/iv_detail_photo"
+            app:layout_constraintStart_toStartOf="@+id/iv_detail_photo"
+            app:layout_constraintTop_toBottomOf="@+id/iv_detail_photo" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="148dp"
+            android:layout_height="28dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/description"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.045"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_name" />
+
+        <TextView
+            android:id="@+id/tv_detail_director"
+            android:layout_width="386dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/description"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/description"
+            app:layout_constraintTop_toBottomOf="@+id/description" />
+
+        <TextView
+            android:id="@+id/tv_detail_synopsis"
+            android:layout_width="391dp"
+            android:layout_height="134dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_released_date"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_released_date"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_released_date" />
+
+        <TextView
+            android:id="@+id/tv_detail_network"
+            android:layout_width="386dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_writer"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_writer"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_writer" />
+
+        <TextView
+            android:id="@+id/tv_detail_episodes"
+            android:layout_width="386dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_network"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_network"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_network" />
+
+        <TextView
+            android:id="@+id/tv_detail_released_date"
+            android:layout_width="386dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_episodes"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_episodes"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_episodes" />
+
+        <TextView
+            android:id="@+id/tv_detail_writer"
+            android:layout_width="386dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="TextView"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_director"
+            app:layout_constraintHorizontal_bias="0.007"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_director"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_director" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
